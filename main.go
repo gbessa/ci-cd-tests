@@ -7,7 +7,7 @@ import (
 )
 
 func home(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprint(w, "<h1>CI/CD FullCycle course Modified 02!")
+	fmt.Fprint(w, "<h1>CI/CD FullCycle course Modified 03!")
 }
 
 func main() {
